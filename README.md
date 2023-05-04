@@ -4,4 +4,4 @@ A Breakout game copy made with HTML, CSS and JavaScript!
 
 ## Play It!
 
-http://joaosos.heliohost.us/js-breakout-game/v1
+https://js-breakout-game.vercel.app/
